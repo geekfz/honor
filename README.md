@@ -12,11 +12,10 @@
 
 ## Honor List
 ### DeeLMind
-### CTF
-*bugku number
-...
-### SRC
-*补天 number
+#### CTF
+* bugku number
+#### SRC
+* 补天 number
 
 ### 其它项目1
 
