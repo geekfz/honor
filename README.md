@@ -26,9 +26,9 @@
 ### Casuall
 
 #### CTF
-* bugku number
-#### SRC
-* 补天 number
+* buuoj number **2**
+
+
 
 #### 其它项目1
 
